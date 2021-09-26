@@ -20,7 +20,9 @@ de-embedding data harvesting method `get_results_from_renderer()`   from 'analys
 ---
 * S,Y,Z analysis => HFSS-DrivenModal Analysis
 ---
-* Eigenmoda & EPR Analysis => HFSS-Eigenmdode Analysis
+* Eigenmode & EPR Analysis => HFSS-Eigenmode Analysis
+
+  * Analyzing & Tuning a Resonator => HFSS-Eigenmode & EPR
 ---
 
 
