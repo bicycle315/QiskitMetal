@@ -13,7 +13,7 @@ Due to the license issue i cant directly analyze setup by running metal codes on
 
 `cl.sim.capacitance_matrix` : only shows empty braket even though i finised my simulation in ansys gui and connected ansys with metal jupyter kernel by `cl.sim.strat()` again.
 
--> Marco's Idea
+-> Marco's Idea **(PR)**
 
 de-embedding data harvesting method `get_results_from_renderer()`   from 'analysis run' method `_analyze()` so that the former can be called independently from the latter, enabling running the simulation from the Ansys GUI and later harvest the results.
 
