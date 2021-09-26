@@ -5,7 +5,7 @@
  I can now understand how the design is rendered to the renderer , how to **set variable** and to **sweep that variable**!!
 
 ---
-* CapacitanceMtx & LOM Anaylsis
+* CapacitanceMtx & LOM Anaylsis => Q3D
 
 Due to the license issue i cant directly analyze setup by running metal codes on jupyter. I render all the design to ansys by metal and diconnect metal from q3d. Inside ansys i submit job to my boss computer to calculate.
 
@@ -16,6 +16,12 @@ Due to the license issue i cant directly analyze setup by running metal codes on
 -> Marco's Idea **(PR)**
 
 de-embedding data harvesting method `get_results_from_renderer()`   from 'analysis run' method `_analyze()` so that the former can be called independently from the latter, enabling running the simulation from the Ansys GUI and later harvest the results.
+
+---
+* S,Y,Z analysis => HFSS-DrivenModal Analysis
+---
+* Eigenmoda & EPR Analysis => HFSS-Eigenmdode Analysis
+---
 
 
 
