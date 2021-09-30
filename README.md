@@ -33,7 +33,8 @@
 
 * Eigenmode & EPR Analysis => HFSS-Eigenmode Analysis
 
-  * Analyzing & Tuning a Resonator => HFSS-Eigenmode & EPR
+  * Analyzing & Tuning a Resonator => HFSS-Eigenmode & EPR  
+  * Analyzing & Tuninga Res+Qubit  => HFSS-Eigenmode & EPR
 
 
 
