@@ -2,6 +2,20 @@
 # coding: utf-8
 
 # In[1]:
+''' This NfingerCapacitor can be tapered by controlling the taper_height. 
+    after the finger, the capacitor plate is as flat as the 'flat'.
+          
+        __|__|___
+        |      |   cap_distant
+        --------
+        |||||||    finger_length 
+        |||||||    finger_count
+        --------   
+       |        | flat
+        \      /    taper_height
+         \    /
+           || 
+                 '''
 
 
 from qiskit_metal.qlibrary.core import QComponent
