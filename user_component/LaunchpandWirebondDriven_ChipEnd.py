@@ -3,6 +3,8 @@
 
 # In[1]:
 
+'''This launchpadwirebond doesnt have gap part at the side of the chip that ends.'''
+
 
 from qiskit_metal import draw
 from qiskit_metal.toolbox_python.attr_dict import Dict
