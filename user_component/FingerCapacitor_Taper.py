@@ -5,16 +5,16 @@
 ''' This NfingerCapacitor can be tapered by controlling the taper_height. 
     after the finger, the capacitor plate is as flat as the 'flat'.
           
-        __|__|___
+        __|__|___  north
         |      |   cap_distant
         --------
         |||||||    finger_length 
         |||||||    finger_count
         --------   
-       |        | flat
-        \      /    taper_height
+       |        |  flat
+        \      /   taper_height
          \    /
-           || 
+           ||      south  
                  '''
 
 
